@@ -1,1 +1,1 @@
-Praticando revert e adicionando palavras# pratica-revert
+Praticando revert# pratica-revert
