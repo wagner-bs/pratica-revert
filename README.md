@@ -1,1 +1,1 @@
-Praticando revert, fazendo uma alterção!# pratica-revert
+Praticando revert# pratica-revert
